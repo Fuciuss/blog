@@ -19,7 +19,7 @@ Running GPT-4 on Groq is expensive, especially if you want to create a user-faci
 
 Cost per million tokens (input/output):
 
-![Cost comparison graph](/images/autogen-with-groq/graph.webp)
+![Cost comparison graph](images/autogen-with-groq/graph.webp)
 
 While Llama-3–70B is not as performant as GPT-4, the affordable pricing offered by Groq adds viability to many use cases, including Autogen experimentation.
 
