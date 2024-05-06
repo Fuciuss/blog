@@ -1,0 +1,5 @@
+site_name: blog.reesp.me
+site_author: Rees Pawson
+site_url: https://reesp.me
+theme:
+  name: material
