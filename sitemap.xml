@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://reesp.me/</loc>
+         <lastmod>2024-06-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reesp.me/all-that-will-matter-is-taste/</loc>
+         <lastmod>2024-06-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://reesp.me/autogen-with-groq/</loc>
+         <lastmod>2024-06-01</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
